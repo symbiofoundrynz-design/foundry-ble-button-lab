@@ -1,0 +1,23 @@
+# Generated .NET, IDE and testing outputs
+**/bin/
+**/obj/
+.vs/
+.idea/
+TestResults/
+*.user
+*.suo
+*.log
+*.binlog
+*.pdb
+*.exe
+*.dll
+*.msi
+*.nupkg
+# Local settings, dumps and capture files
+.env
+.env.*
+*.dmp
+*.etl
+*.pcap
+*.pcapng
+*.btsnoop
