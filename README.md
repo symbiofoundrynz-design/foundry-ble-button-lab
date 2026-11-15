@@ -53,4 +53,4 @@ The initial hardware study found the SXK/iSearching tags unreliable or incompati
 
 Experimental development tool; not a certified device-control or safety system, not a production SXK/iSearching driver, and not guaranteed to work with every BLE device or Bluetooth adapter.
 
-**No general open-source license has been granted for this repository candidate.** The source is supplied for portfolio review; all rights are reserved unless the owner grants a separate license. Windows and .NET remain subject to their own terms.
+**License:** Foundry-owned source code is available under the [MIT License](LICENSE). Copyright (c) 2026 SymbioFoundry. The copyright and permission notices must be retained in copies or substantial portions of the software. Windows, .NET and other third-party components remain subject to their own terms. This license does not grant rights to third-party trademarks or software.
